@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Currency Convertor</string>
+    <string name="USDval">0</string>
+    <string name="inr">INR</string>
+    <string name="usd">USD</string>
+    <string name="INRval">0</string>
+    <string name="convert">Convert</string>
+    <string name="reverse_conversion">Reverse Conversion</string>
+    <string name="usd_inr">USD --- INR</string>
+    <string name="pile_of_cash">Pile of Cash</string>
+    <string name="enter_usd_value">Enter USD value</string>
+    <string name="enter_inr_value">Enter INR value</string>
+</resources>
